@@ -20,7 +20,7 @@ export default function Page() {
                             I graduated with 100% score.
                         </p>
                     </div>
-                    <div className="flex w-full h-full pb-6">
+                    <div className="flex w-full h-full pl-0 md:pl-3 pb-6">
                         <Image
                             className="object-contain w-full max-w-[450px]"
                             src="/Harvard.png"
