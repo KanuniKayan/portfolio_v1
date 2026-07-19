@@ -28,7 +28,8 @@ body {
 
 .flexImage {
     display: flex;
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     height: 250px;
     flex-direction: column;
 }

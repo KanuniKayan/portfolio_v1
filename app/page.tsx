@@ -3,9 +3,9 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-        <div className="flex flex-col w-full h-full bg-secondary">
+        <div className="flex flex-col w-full h-full pb-4 bg-secondary">
             <h2 className="self-center mt-4 text-3xl text-primary md:border-b-2 border-primary border-0 text-center">Real Problems, Real Solutions</h2>
-            <div className="flex flex-row w-full h-fit gap-10 p-10">
+            <div className="flex flex-col md:flex-row w-full h-fit gap-10 p-10">
                 <Link className="flexImage" href="https://github.com/KanuniKayan/RPS-dueling-bot" target="_blank">
                     <p className="imageTitle">Rock Paper Scissors Duel Bot</p>
                     <Image

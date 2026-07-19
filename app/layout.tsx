@@ -36,7 +36,7 @@ export default function RootLayout({
                 KANUNI KAYAN
               </Link>
             </h1>
-            <div className="w-full h-full bg-secondary">
+            <div className="w-full h-fit bg-secondary">
               <nav className="flex flex-row flex-wrap items-center w-full h-fit bg-highlight">
                   <Link className="link" href="/">Projects</Link>
                   <Link className="link" href="/about">About</Link>
