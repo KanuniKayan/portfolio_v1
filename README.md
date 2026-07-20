@@ -14,8 +14,8 @@ It served as a starting ground to which we can later on revamp or add onto.
 - [About](#about)
 - [Screenshots](#screenshots)
 - [Navigation](#nagivation)
-- [Version 2](#version 2)
-- 
+- [Version 2](#version%202)
+
 ## Screenshot
 
 Landing page
